@@ -1,0 +1,10 @@
+flask
+dotenv
+os
+openai
+langchain
+requests
+json
+newsapi
+datetime
+google-generativeai
